@@ -1,5 +1,5 @@
 ---
-layout: default
+Brian: default
 title: Student Blog
 ---
 
