@@ -1,4 +1,5 @@
 ---
+layout: default
 Name: Brian Snipes
 Class: Computer Science 1
 ---
