@@ -1,11 +1,11 @@
 ---
-layout: test123412314
-title: Student Blog
+Class: Computer Science 1
+Title: Brian Snipes
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## About Me
+test
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
