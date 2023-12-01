@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: test123412314
 title: Student Blog
 ---
 
