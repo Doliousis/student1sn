@@ -1,6 +1,6 @@
 ---
-Brian: default
-title: Student Blog
+Brian: Snipes
+Test
 ---
 
 
