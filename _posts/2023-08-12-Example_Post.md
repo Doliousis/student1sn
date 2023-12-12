@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Post Example
 description: Test test test
-type: Hacks
+type: posts
 courses: { compsci: {week: 0} }
 permalink: /plans/week0
 ---
