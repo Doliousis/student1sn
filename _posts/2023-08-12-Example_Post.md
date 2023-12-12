@@ -8,3 +8,6 @@ type: Hacks
 courses: { compsci: {week: 0} }
 permalink: /plans/week0
 ---
+
+## Test
+This is an example post
