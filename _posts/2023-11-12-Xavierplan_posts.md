@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Xaviers Plan
 description: Just a plan 
-type: Hacks
+type: plans
 courses: { compsci: {week: 0} }
 permalink: /plans/week0
 ---
