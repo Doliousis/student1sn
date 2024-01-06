@@ -9,5 +9,5 @@ courses: { compsci: {week: 0} }
 permalink: /plans/week0
 ---
 
-## Test
+## Example
 This is an example post
