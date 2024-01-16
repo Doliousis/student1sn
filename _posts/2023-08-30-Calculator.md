@@ -195,5 +195,15 @@ vantaInstance({
   touchControls: true,
   gyroControls: false
 });
+
+  // purple buttoms
+const calculatorButtons = document.querySelectorAll(".calculator-number, .calculator-operation, .]calculator-clear, .calculator-equals");
+
+calculatorButtons.forEach(button => {
+   button.style.backgroundColor = "#800080"; // Purple hex code
+   button.style.color = "#ffffff"; // White hex code for text color
+   button.style.cursor = "pointer";
+});
+
 </script>
 
