@@ -6,6 +6,7 @@ title: JSCalculator
 description: JSCalculator
 type: hacks
 courses: { compsci: {week: 22} }
+---
 
 <style>
   .calculator-output {
