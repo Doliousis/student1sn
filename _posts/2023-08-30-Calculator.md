@@ -27,6 +27,27 @@ courses: { compsci: {week: 2} }
   }
 </style>
 
+<style>
+ /* Styles for number buttons */
+ .calculator-number {
+ background-color: #3498db; /* Change to the desired color */
+ color: #fff; /* Change to the desired text color */
+ }
+
+ /* Styles for operation buttons */
+ .calculator-operation {
+ background-color: #e74c3c; /* Change to the desired color */
+ color: #fff; /* Change to the desired text color */
+ }
+
+ /* Styles for clear and equals buttons */
+ .calculator-clear,
+ .calculator-equals {
+ background-color: #2ecc71; /* Change to the desired color */
+ color: #fff; /* Change to the desired text color */
+ }
+</style>
+
 <!-- Add a container for the animation -->
 <div id="animation">
   <div class="calculator-container">
