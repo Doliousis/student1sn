@@ -1,3 +1,12 @@
+---
+toc: true
+comments: false
+layout: post
+title: JSCalculator
+description: JSCalculator
+type: hacks
+courses: { compsci: {week: 22} }
+
 <style>
   .calculator-output {
     /* calulator output 
