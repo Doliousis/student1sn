@@ -2,9 +2,9 @@
 toc: true
 comments: false
 layout: post
-title: JSCalculator
-description: JSCalculator
-type: hacks
+title: Calculator MD
+description: Grab of the Calculator from APCSA repo.
+type: tangibles
 courses: { compsci: {week: 22} }
 ---
 
