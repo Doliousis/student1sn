@@ -30,6 +30,11 @@ courses: { compsci: {week: 2} }
     border: 5px solid black;
     background-color: purple;
   }
+  .calculator-operation{
+    padding: 2px;
+    border: 5px solid black;
+    background-color: pink;
+  }
 </style>
 
 <!-- Add a container for the animation -->
