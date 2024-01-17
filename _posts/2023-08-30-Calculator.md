@@ -25,6 +25,11 @@ courses: { compsci: {week: 2} }
     display: flex;
     align-items: center;
   }
+  .calculator-number{
+    padding: 2px;
+    border 5px solid black;
+    background-color:purple;
+  }
 </style>
 
 <!-- Add a container for the animation -->
