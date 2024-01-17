@@ -27,8 +27,8 @@ courses: { compsci: {week: 2} }
   }
   .calculator-number{
     padding: 2px;
-    border 5px solid black;
-    background-color:purple;
+    border: 5px solid black;
+    background-color: purple;
   }
 </style>
 
