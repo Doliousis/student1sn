@@ -146,7 +146,7 @@ courses: { compsci: {week: 2} }
               result = first / second;
               break;
           case "**":
-            result = first ** first
+            result = Math.pow(first, second):
             break;
           default:
             break;
