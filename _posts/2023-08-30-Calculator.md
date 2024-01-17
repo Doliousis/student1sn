@@ -146,7 +146,7 @@ courses: { compsci: {week: 2} }
               result = first / second;
               break;
           case "**":
-            result = first ** second
+            result = first ** first
             break;
           default:
             break;
